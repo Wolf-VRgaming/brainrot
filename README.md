@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wolf-VRgmaing
+- 👋 Hi, I’m @Wolf-VRgaming
 - 👀 I’m interested in making code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on idk
